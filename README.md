@@ -1,8 +1,8 @@
 # Automaton-Signals
 Educational project developed for the final test of the "Algorithm and data structures" course at the University of Milan.
 
-The goal of this project, is to model a bidimensional plane in which a series of automaton and obstacles are positioned.
-Every automaton moves in the plane, and react to specific recalls.
+The goal of this project, is to model a two-dimensional plane in which a series of automatons and obstacles are positioned.
+Each automaton moves within the plane, and reacts to specific signals.
 
 ## Project directory structure:
 ```
@@ -44,7 +44,7 @@ Every automaton moves in the plane, and react to specific recalls.
 ┗ Laboratorio “Algoritmi e Strutture Dati” Relazione Ingenito Emiddio.pdf # Formal report about this project.
 ```
 The ```Soluzione``` directory, contains all the files that define my solution.
-The ```input-output``` directory, contains a serie of execution examples of my code.
+The ```input-output``` directory provides a set of execution examples for my code.
 
 
 In order to compile the code, ```cd``` into the ```Soluzione``` directory, and launch the ```go build .``` command. You can then execute the code by running ```go run .```
