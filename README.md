@@ -51,6 +51,7 @@ In order to compile the code, ```cd``` into the ```Soluzione``` directory, and l
 
 
 Also a formal report has been attached to the code, which widely explains the implementation decisions i took, and precisely analizes every function written, along with an analisys of their computational and spacial complexity.
+
 ---
 ## Contact
 
